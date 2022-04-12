@@ -34,7 +34,7 @@ require (
 	github.com/cheggaaa/pb/v3 v3.0.4
 	github.com/cncf/udpa/go v0.0.0-20200629203442-efcf912fb354
 	github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd // indirect
-	github.com/containernetworking/cni v0.7.0-alpha1
+	github.com/containernetworking/cni v0.8.1
 	github.com/containernetworking/plugins v0.7.3
 	github.com/coreos/go-oidc v2.2.1+incompatible
 	github.com/d4l3k/messagediff v1.2.1 // indirect
